@@ -1,126 +1,54 @@
-2014-09-23 19:14:41,225 INFO  crawl.Injector - Injector: starting at 2014-09-23 19:14:41
-2014-09-23 19:14:41,226 INFO  crawl.Injector - Injector: crawlDb: -solr/crawldb
-2014-09-23 19:14:41,226 INFO  crawl.Injector - Injector: urlDir: urls
-2014-09-23 19:14:41,227 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
-2014-09-23 19:14:41,494 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 19:14:41,539 WARN  snappy.LoadSnappy - Snappy native library not loaded
-2014-09-23 19:14:42,081 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
-2014-09-23 19:14:42,137 INFO  crawl.Injector - Injector: overwrite: false
-2014-09-23 19:14:42,137 INFO  crawl.Injector - Injector: update: false
-2014-09-23 19:14:42,778 INFO  crawl.Injector - Injector: Total number of urls rejected by filters: 0
-2014-09-23 19:14:42,778 INFO  crawl.Injector - Injector: Total number of urls after normalization: 1
-2014-09-23 19:14:42,782 INFO  crawl.Injector - Injector: Total new urls injected: 1
-2014-09-23 19:14:42,783 INFO  crawl.Injector - Injector: finished at 2014-09-23 19:14:42, elapsed: 00:00:01
-2014-09-23 19:17:06,214 INFO  crawl.Injector - Injector: starting at 2014-09-23 19:17:06
-2014-09-23 19:17:06,215 INFO  crawl.Injector - Injector: crawlDb: -solr/crawldb
-2014-09-23 19:17:06,215 INFO  crawl.Injector - Injector: urlDir: urls
-2014-09-23 19:17:06,215 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
-2014-09-23 19:17:06,548 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 19:17:06,607 WARN  snappy.LoadSnappy - Snappy native library not loaded
-2014-09-23 19:17:07,088 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
-2014-09-23 19:17:07,837 INFO  crawl.Injector - Injector: Total number of urls rejected by filters: 0
-2014-09-23 19:17:07,837 INFO  crawl.Injector - Injector: Total number of urls after normalization: 1
-2014-09-23 19:17:07,837 INFO  crawl.Injector - Injector: Merging injected urls into crawl db.
-2014-09-23 19:17:08,037 INFO  crawl.Injector - Injector: overwrite: false
-2014-09-23 19:17:08,038 INFO  crawl.Injector - Injector: update: false
-2014-09-23 19:17:08,910 INFO  crawl.Injector - Injector: URLs merged: 1
-2014-09-23 19:17:08,913 INFO  crawl.Injector - Injector: Total new urls injected: 0
-2014-09-23 19:17:08,914 INFO  crawl.Injector - Injector: finished at 2014-09-23 19:17:08, elapsed: 00:00:02
-2014-09-23 19:19:29,519 INFO  crawl.Injector - Injector: starting at 2014-09-23 19:19:29
-2014-09-23 19:19:29,519 INFO  crawl.Injector - Injector: crawlDb: -solr/crawldb
-2014-09-23 19:19:29,520 INFO  crawl.Injector - Injector: urlDir: urls
-2014-09-23 19:19:29,520 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
-2014-09-23 19:19:29,851 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 19:19:29,903 WARN  snappy.LoadSnappy - Snappy native library not loaded
-2014-09-23 19:19:30,419 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
-2014-09-23 19:19:31,156 INFO  crawl.Injector - Injector: Total number of urls rejected by filters: 0
-2014-09-23 19:19:31,156 INFO  crawl.Injector - Injector: Total number of urls after normalization: 1
-2014-09-23 19:19:31,156 INFO  crawl.Injector - Injector: Merging injected urls into crawl db.
-2014-09-23 19:19:31,364 INFO  crawl.Injector - Injector: overwrite: false
-2014-09-23 19:19:31,365 INFO  crawl.Injector - Injector: update: false
-2014-09-23 19:19:32,230 INFO  crawl.Injector - Injector: URLs merged: 1
-2014-09-23 19:19:32,238 INFO  crawl.Injector - Injector: Total new urls injected: 0
-2014-09-23 19:19:32,239 INFO  crawl.Injector - Injector: finished at 2014-09-23 19:19:32, elapsed: 00:00:02
-2014-09-23 19:34:29,290 INFO  crawl.Injector - Injector: starting at 2014-09-23 19:34:29
-2014-09-23 19:34:29,297 INFO  crawl.Injector - Injector: crawlDb: -solr/crawldb
-2014-09-23 19:34:29,301 INFO  crawl.Injector - Injector: urlDir: urls
-2014-09-23 19:34:29,302 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
-2014-09-23 19:34:29,556 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 19:34:29,612 WARN  snappy.LoadSnappy - Snappy native library not loaded
-2014-09-23 19:34:30,127 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
-2014-09-23 19:34:30,873 INFO  crawl.Injector - Injector: Total number of urls rejected by filters: 0
-2014-09-23 19:34:30,874 INFO  crawl.Injector - Injector: Total number of urls after normalization: 1
-2014-09-23 19:34:30,874 INFO  crawl.Injector - Injector: Merging injected urls into crawl db.
-2014-09-23 19:34:31,113 INFO  crawl.Injector - Injector: overwrite: false
-2014-09-23 19:34:31,113 INFO  crawl.Injector - Injector: update: false
-2014-09-23 19:34:31,964 INFO  crawl.Injector - Injector: URLs merged: 1
-2014-09-23 19:34:31,968 INFO  crawl.Injector - Injector: Total new urls injected: 0
-2014-09-23 19:34:31,968 INFO  crawl.Injector - Injector: finished at 2014-09-23 19:34:31, elapsed: 00:00:02
-2014-09-23 19:36:36,197 INFO  crawl.Injector - Injector: starting at 2014-09-23 19:36:36
-2014-09-23 19:36:36,198 INFO  crawl.Injector - Injector: crawlDb: -solr/crawldb
-2014-09-23 19:36:36,198 INFO  crawl.Injector - Injector: urlDir: urls
-2014-09-23 19:36:36,199 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
-2014-09-23 19:36:36,463 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 19:36:36,518 WARN  snappy.LoadSnappy - Snappy native library not loaded
-2014-09-23 19:36:37,013 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
-2014-09-23 19:36:37,770 INFO  crawl.Injector - Injector: Total number of urls rejected by filters: 0
-2014-09-23 19:36:37,770 INFO  crawl.Injector - Injector: Total number of urls after normalization: 1
-2014-09-23 19:36:37,770 INFO  crawl.Injector - Injector: Merging injected urls into crawl db.
-2014-09-23 19:36:37,989 INFO  crawl.Injector - Injector: overwrite: false
-2014-09-23 19:36:37,989 INFO  crawl.Injector - Injector: update: false
-2014-09-23 19:36:38,848 INFO  crawl.Injector - Injector: URLs merged: 0
-2014-09-23 19:36:38,853 INFO  crawl.Injector - Injector: Total new urls injected: 1
-2014-09-23 19:36:38,858 INFO  crawl.Injector - Injector: finished at 2014-09-23 19:36:38, elapsed: 00:00:02
-2014-09-23 19:40:56,261 INFO  crawl.Injector - Injector: starting at 2014-09-23 19:40:56
-2014-09-23 19:40:56,262 INFO  crawl.Injector - Injector: crawlDb: -solr/crawldb
-2014-09-23 19:40:56,263 INFO  crawl.Injector - Injector: urlDir: urls
-2014-09-23 19:40:56,264 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
-2014-09-23 19:40:56,560 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 19:40:56,604 WARN  snappy.LoadSnappy - Snappy native library not loaded
-2014-09-23 19:40:57,136 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
-2014-09-23 19:40:57,840 INFO  crawl.Injector - Injector: Total number of urls rejected by filters: 0
-2014-09-23 19:40:57,840 INFO  crawl.Injector - Injector: Total number of urls after normalization: 1
-2014-09-23 19:40:57,840 INFO  crawl.Injector - Injector: Merging injected urls into crawl db.
-2014-09-23 19:40:58,050 INFO  crawl.Injector - Injector: overwrite: false
-2014-09-23 19:40:58,050 INFO  crawl.Injector - Injector: update: false
-2014-09-23 19:40:58,929 INFO  crawl.Injector - Injector: URLs merged: 1
-2014-09-23 19:40:58,933 INFO  crawl.Injector - Injector: Total new urls injected: 0
-2014-09-23 19:40:58,934 INFO  crawl.Injector - Injector: finished at 2014-09-23 19:40:58, elapsed: 00:00:02
-2014-09-23 19:43:20,216 INFO  crawl.Injector - Injector: starting at 2014-09-23 19:43:20
-2014-09-23 19:43:20,216 INFO  crawl.Injector - Injector: crawlDb: http://ec2-54-198-189-209.compute-1.amazonaws.com:8983/solr/collection1/crawldb
-2014-09-23 19:43:20,217 INFO  crawl.Injector - Injector: urlDir: urls
-2014-09-23 19:43:20,217 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
-2014-09-23 19:43:20,432 ERROR crawl.Injector - Injector: java.lang.IllegalArgumentException: Wrong FS: http://ec2-54-198-189-209.compute-1.amazonaws.com:8983/solr/collection1/crawldb, expected: file:///
-	at org.apache.hadoop.fs.FileSystem.checkPath(FileSystem.java:381)
-	at org.apache.hadoop.fs.RawLocalFileSystem.pathToFile(RawLocalFileSystem.java:55)
-	at org.apache.hadoop.fs.LocalFileSystem.pathToFile(LocalFileSystem.java:61)
-	at org.apache.hadoop.fs.LocalFileSystem.exists(LocalFileSystem.java:51)
-	at org.apache.nutch.crawl.Injector.inject(Injector.java:299)
-	at org.apache.nutch.crawl.Injector.run(Injector.java:380)
-	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:65)
-	at org.apache.nutch.crawl.Injector.main(Injector.java:370)
-
-2014-09-23 19:44:08,660 INFO  crawl.Injector - Injector: starting at 2014-09-23 19:44:08
-2014-09-23 19:44:08,661 INFO  crawl.Injector - Injector: crawlDb: -solr/crawldb
-2014-09-23 19:44:08,661 INFO  crawl.Injector - Injector: urlDir: urls
-2014-09-23 19:44:08,661 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
-2014-09-23 19:44:08,948 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 19:44:09,004 WARN  snappy.LoadSnappy - Snappy native library not loaded
-2014-09-23 19:44:09,572 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
-2014-09-23 19:44:10,265 INFO  crawl.Injector - Injector: Total number of urls rejected by filters: 0
-2014-09-23 19:44:10,269 INFO  crawl.Injector - Injector: Total number of urls after normalization: 1
-2014-09-23 19:44:10,269 INFO  crawl.Injector - Injector: Merging injected urls into crawl db.
-2014-09-23 19:44:10,466 INFO  crawl.Injector - Injector: overwrite: false
-2014-09-23 19:44:10,467 INFO  crawl.Injector - Injector: update: false
-2014-09-23 19:44:11,342 INFO  crawl.Injector - Injector: URLs merged: 1
-2014-09-23 19:44:11,346 INFO  crawl.Injector - Injector: Total new urls injected: 0
-2014-09-23 19:44:11,347 INFO  crawl.Injector - Injector: finished at 2014-09-23 19:44:11, elapsed: 00:00:02
-2014-09-23 19:55:50,541 INFO  indexer.IndexingJob - Indexer: starting at 2014-09-23 19:55:50
-2014-09-23 19:55:50,596 INFO  indexer.IndexingJob - Indexer: deleting gone documents: false
-2014-09-23 19:55:50,597 INFO  indexer.IndexingJob - Indexer: URL filtering: false
-2014-09-23 19:55:50,598 INFO  indexer.IndexingJob - Indexer: URL normalizing: false
-2014-09-23 19:55:50,915 INFO  indexer.IndexWriters - Adding org.apache.nutch.indexwriter.solr.SolrIndexWriter
-2014-09-23 19:55:50,916 INFO  indexer.IndexingJob - Active IndexWriters :
+2014-10-01 17:52:03,343 INFO  crawl.Injector - Injector: starting at 2014-10-01 17:52:03
+2014-10-01 17:52:03,344 INFO  crawl.Injector - Injector: crawlDb: -solr/crawldb
+2014-10-01 17:52:03,345 INFO  crawl.Injector - Injector: urlDir: urls
+2014-10-01 17:52:03,346 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
+2014-10-01 17:52:03,656 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2014-10-01 17:52:03,701 WARN  snappy.LoadSnappy - Snappy native library not loaded
+2014-10-01 17:52:04,209 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
+2014-10-01 17:52:04,935 INFO  crawl.Injector - Injector: Total number of urls rejected by filters: 1
+2014-10-01 17:52:04,935 INFO  crawl.Injector - Injector: Total number of urls after normalization: 0
+2014-10-01 17:52:04,935 INFO  crawl.Injector - Injector: Merging injected urls into crawl db.
+2014-10-01 17:52:05,159 INFO  crawl.Injector - Injector: overwrite: false
+2014-10-01 17:52:05,159 INFO  crawl.Injector - Injector: update: false
+2014-10-01 17:52:06,032 INFO  crawl.Injector - Injector: URLs merged: 0
+2014-10-01 17:52:06,036 INFO  crawl.Injector - Injector: Total new urls injected: 0
+2014-10-01 17:52:06,037 INFO  crawl.Injector - Injector: finished at 2014-10-01 17:52:06, elapsed: 00:00:02
+2014-10-01 17:53:49,206 INFO  crawl.Injector - Injector: starting at 2014-10-01 17:53:49
+2014-10-01 17:53:49,207 INFO  crawl.Injector - Injector: crawlDb: -solr/crawldb
+2014-10-01 17:53:49,207 INFO  crawl.Injector - Injector: urlDir: urls
+2014-10-01 17:53:49,208 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
+2014-10-01 17:53:49,506 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2014-10-01 17:53:49,561 WARN  snappy.LoadSnappy - Snappy native library not loaded
+2014-10-01 17:53:50,147 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
+2014-10-01 17:53:50,834 INFO  crawl.Injector - Injector: Total number of urls rejected by filters: 1
+2014-10-01 17:53:50,834 INFO  crawl.Injector - Injector: Total number of urls after normalization: 0
+2014-10-01 17:53:50,834 INFO  crawl.Injector - Injector: Merging injected urls into crawl db.
+2014-10-01 17:53:51,056 INFO  crawl.Injector - Injector: overwrite: false
+2014-10-01 17:53:51,056 INFO  crawl.Injector - Injector: update: false
+2014-10-01 17:53:51,923 INFO  crawl.Injector - Injector: URLs merged: 0
+2014-10-01 17:53:51,927 INFO  crawl.Injector - Injector: Total new urls injected: 0
+2014-10-01 17:53:51,928 INFO  crawl.Injector - Injector: finished at 2014-10-01 17:53:51, elapsed: 00:00:02
+2014-10-01 17:54:25,063 INFO  crawl.Injector - Injector: starting at 2014-10-01 17:54:25
+2014-10-01 17:54:25,064 INFO  crawl.Injector - Injector: crawlDb: -solr/crawldb
+2014-10-01 17:54:25,064 INFO  crawl.Injector - Injector: urlDir: urls
+2014-10-01 17:54:25,064 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
+2014-10-01 17:54:25,369 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2014-10-01 17:54:25,429 WARN  snappy.LoadSnappy - Snappy native library not loaded
+2014-10-01 17:54:25,984 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
+2014-10-01 17:54:26,684 INFO  crawl.Injector - Injector: Total number of urls rejected by filters: 1
+2014-10-01 17:54:26,684 INFO  crawl.Injector - Injector: Total number of urls after normalization: 0
+2014-10-01 17:54:26,684 INFO  crawl.Injector - Injector: Merging injected urls into crawl db.
+2014-10-01 17:54:26,905 INFO  crawl.Injector - Injector: overwrite: false
+2014-10-01 17:54:26,905 INFO  crawl.Injector - Injector: update: false
+2014-10-01 17:54:27,766 INFO  crawl.Injector - Injector: URLs merged: 0
+2014-10-01 17:54:27,775 INFO  crawl.Injector - Injector: Total new urls injected: 0
+2014-10-01 17:54:27,775 INFO  crawl.Injector - Injector: finished at 2014-10-01 17:54:27, elapsed: 00:00:02
+2014-10-01 17:55:01,775 INFO  indexer.IndexingJob - Indexer: starting at 2014-10-01 17:55:01
+2014-10-01 17:55:01,847 INFO  indexer.IndexingJob - Indexer: deleting gone documents: false
+2014-10-01 17:55:01,847 INFO  indexer.IndexingJob - Indexer: URL filtering: false
+2014-10-01 17:55:01,847 INFO  indexer.IndexingJob - Indexer: URL normalizing: false
+2014-10-01 17:55:02,085 INFO  indexer.IndexWriters - Adding org.apache.nutch.indexwriter.solr.SolrIndexWriter
+2014-10-01 17:55:02,086 INFO  indexer.IndexingJob - Active IndexWriters :
 SOLRIndexWriter
 	solr.server.url : URL of the SOLR instance (mandatory)
 	solr.commit.size : buffer size when sending to SOLR (default 1000)
@@ -131,17 +59,17 @@ SOLRIndexWriter
 	solr.auth.password : password for authentication
 
 
-2014-09-23 19:55:50,920 INFO  indexer.IndexerMapReduce - IndexerMapReduce: crawldb: crawl/crawldb
-2014-09-23 19:55:50,920 INFO  indexer.IndexerMapReduce - IndexerMapReduce: linkdb: crawl/linkdb
-2014-09-23 19:55:50,920 INFO  indexer.IndexerMapReduce - IndexerMapReduces: adding segment: crawl/segments/*
-2014-09-23 19:55:51,119 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 19:55:51,168 ERROR security.UserGroupInformation - PriviledgedActionException as:root cause:org.apache.hadoop.mapred.InvalidInputException: Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/crawl/segments/*/crawl_fetch matches 0 files
+2014-10-01 17:55:02,094 INFO  indexer.IndexerMapReduce - IndexerMapReduce: crawldb: crawl/crawldb
+2014-10-01 17:55:02,094 INFO  indexer.IndexerMapReduce - IndexerMapReduce: linkdb: crawl/linkdb
+2014-10-01 17:55:02,094 INFO  indexer.IndexerMapReduce - IndexerMapReduces: adding segment: crawl/segments/*
+2014-10-01 17:55:02,307 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2014-10-01 17:55:02,371 ERROR security.UserGroupInformation - PriviledgedActionException as:root cause:org.apache.hadoop.mapred.InvalidInputException: Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/crawl/segments/*/crawl_fetch matches 0 files
 Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/crawl/segments/*/crawl_parse matches 0 files
 Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/crawl/segments/*/parse_data matches 0 files
 Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/crawl/segments/*/parse_text matches 0 files
 Input path does not exist: file:/var/www/html/SELK/apache-nutch-1.9/crawl/crawldb/current
 Input path does not exist: file:/var/www/html/SELK/apache-nutch-1.9/crawl/linkdb/current
-2014-09-23 19:55:51,170 ERROR indexer.IndexingJob - Indexer: org.apache.hadoop.mapred.InvalidInputException: Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/crawl/segments/*/crawl_fetch matches 0 files
+2014-10-01 17:55:02,373 ERROR indexer.IndexingJob - Indexer: org.apache.hadoop.mapred.InvalidInputException: Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/crawl/segments/*/crawl_fetch matches 0 files
 Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/crawl/segments/*/crawl_parse matches 0 files
 Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/crawl/segments/*/parse_data matches 0 files
 Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/crawl/segments/*/parse_text matches 0 files
@@ -166,38 +94,14 @@ Input path does not exist: file:/var/www/html/SELK/apache-nutch-1.9/crawl/linkdb
 	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:65)
 	at org.apache.nutch.indexer.IndexingJob.main(IndexingJob.java:186)
 
-2014-09-23 19:57:27,801 INFO  indexer.IndexingJob - Indexer: starting at 2014-09-23 19:57:27
-2014-09-23 19:57:27,863 INFO  indexer.IndexingJob - Indexer: deleting gone documents: false
-2014-09-23 19:57:27,863 INFO  indexer.IndexingJob - Indexer: URL filtering: false
-2014-09-23 19:57:27,863 INFO  indexer.IndexingJob - Indexer: URL normalizing: false
-2014-09-23 19:57:28,077 INFO  indexer.IndexWriters - Adding org.apache.nutch.indexwriter.solr.SolrIndexWriter
-2014-09-23 19:57:28,077 INFO  indexer.IndexingJob - Active IndexWriters :
-SOLRIndexWriter
-	solr.server.url : URL of the SOLR instance (mandatory)
-	solr.commit.size : buffer size when sending to SOLR (default 1000)
-	solr.mapping.file : name of the mapping file for fields (default solrindex-mapping.xml)
-	solr.auth : use authentication (default false)
-	solr.auth.username : use authentication (default false)
-	solr.auth : username for authentication
-	solr.auth.password : password for authentication
-
-
-2014-09-23 19:57:28,081 INFO  indexer.IndexerMapReduce - IndexerMapReduce: crawldb: crawl/crawldb
-2014-09-23 19:57:28,081 INFO  indexer.IndexerMapReduce - IndexerMapReduce: linkdb: crawl/linkdb
-2014-09-23 19:57:28,081 INFO  indexer.IndexerMapReduce - IndexerMapReduces: adding segment: crawl/segments/*
-2014-09-23 19:57:28,270 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 19:57:28,335 ERROR security.UserGroupInformation - PriviledgedActionException as:root cause:org.apache.hadoop.mapred.InvalidInputException: Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/crawl/segments/*/crawl_fetch matches 0 files
-Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/crawl/segments/*/crawl_parse matches 0 files
-Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/crawl/segments/*/parse_data matches 0 files
-Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/crawl/segments/*/parse_text matches 0 files
-Input path does not exist: file:/var/www/html/SELK/apache-nutch-1.9/crawl/crawldb/current
-Input path does not exist: file:/var/www/html/SELK/apache-nutch-1.9/crawl/linkdb/current
-2014-09-23 19:57:28,336 ERROR indexer.IndexingJob - Indexer: org.apache.hadoop.mapred.InvalidInputException: Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/crawl/segments/*/crawl_fetch matches 0 files
-Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/crawl/segments/*/crawl_parse matches 0 files
-Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/crawl/segments/*/parse_data matches 0 files
-Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/crawl/segments/*/parse_text matches 0 files
-Input path does not exist: file:/var/www/html/SELK/apache-nutch-1.9/crawl/crawldb/current
-Input path does not exist: file:/var/www/html/SELK/apache-nutch-1.9/crawl/linkdb/current
+2014-10-01 17:57:48,424 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2014-10-01 17:57:48,425 INFO  crawl.Generator - Generator: starting at 2014-10-01 17:57:48
+2014-10-01 17:57:48,426 INFO  crawl.Generator - Generator: Selecting best-scoring urls due for fetch.
+2014-10-01 17:57:48,426 INFO  crawl.Generator - Generator: filtering: true
+2014-10-01 17:57:48,426 INFO  crawl.Generator - Generator: normalizing: true
+2014-10-01 17:57:48,431 INFO  crawl.Generator - Generator: jobtracker is 'local', generating exactly one partition.
+2014-10-01 17:57:48,524 ERROR security.UserGroupInformation - PriviledgedActionException as:root cause:org.apache.hadoop.mapred.InvalidInputException: Input path does not exist: file:/var/www/html/SELK/apache-nutch-1.9/-topN/current
+2014-10-01 17:57:48,526 ERROR crawl.Generator - Generator: org.apache.hadoop.mapred.InvalidInputException: Input path does not exist: file:/var/www/html/SELK/apache-nutch-1.9/-topN/current
 	at org.apache.hadoop.mapred.FileInputFormat.listStatus(FileInputFormat.java:197)
 	at org.apache.hadoop.mapred.SequenceFileInputFormat.listStatus(SequenceFileInputFormat.java:40)
 	at org.apache.hadoop.mapred.FileInputFormat.getSplits(FileInputFormat.java:208)
@@ -212,662 +116,23 @@ Input path does not exist: file:/var/www/html/SELK/apache-nutch-1.9/crawl/linkdb
 	at org.apache.hadoop.mapred.JobClient.submitJobInternal(JobClient.java:936)
 	at org.apache.hadoop.mapred.JobClient.submitJob(JobClient.java:910)
 	at org.apache.hadoop.mapred.JobClient.runJob(JobClient.java:1353)
-	at org.apache.nutch.indexer.IndexingJob.index(IndexingJob.java:114)
-	at org.apache.nutch.indexer.IndexingJob.run(IndexingJob.java:176)
+	at org.apache.nutch.crawl.Generator.generate(Generator.java:548)
+	at org.apache.nutch.crawl.Generator.run(Generator.java:716)
 	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:65)
-	at org.apache.nutch.indexer.IndexingJob.main(IndexingJob.java:186)
+	at org.apache.nutch.crawl.Generator.main(Generator.java:672)
 
-2014-09-23 19:59:14,557 INFO  indexer.IndexingJob - Indexer: starting at 2014-09-23 19:59:14
-2014-09-23 19:59:14,611 INFO  indexer.IndexingJob - Indexer: deleting gone documents: false
-2014-09-23 19:59:14,611 INFO  indexer.IndexingJob - Indexer: URL filtering: false
-2014-09-23 19:59:14,611 INFO  indexer.IndexingJob - Indexer: URL normalizing: false
-2014-09-23 19:59:14,812 INFO  indexer.IndexWriters - Adding org.apache.nutch.indexwriter.solr.SolrIndexWriter
-2014-09-23 19:59:14,812 INFO  indexer.IndexingJob - Active IndexWriters :
-SOLRIndexWriter
-	solr.server.url : URL of the SOLR instance (mandatory)
-	solr.commit.size : buffer size when sending to SOLR (default 1000)
-	solr.mapping.file : name of the mapping file for fields (default solrindex-mapping.xml)
-	solr.auth : use authentication (default false)
-	solr.auth.username : use authentication (default false)
-	solr.auth : username for authentication
-	solr.auth.password : password for authentication
-
-
-2014-09-23 19:59:14,816 INFO  indexer.IndexerMapReduce - IndexerMapReduce: crawldb: -solr/crawldb
-2014-09-23 19:59:14,816 INFO  indexer.IndexerMapReduce - IndexerMapReduce: linkdb: -solr/linkdb
-2014-09-23 19:59:14,816 INFO  indexer.IndexerMapReduce - IndexerMapReduces: adding segment: -solr/segments/*
-2014-09-23 19:59:15,012 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 19:59:15,070 ERROR security.UserGroupInformation - PriviledgedActionException as:root cause:org.apache.hadoop.mapred.InvalidInputException: Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/-solr/segments/*/crawl_fetch matches 0 files
-Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/-solr/segments/*/crawl_parse matches 0 files
-Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/-solr/segments/*/parse_data matches 0 files
-Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/-solr/segments/*/parse_text matches 0 files
-Input path does not exist: file:/var/www/html/SELK/apache-nutch-1.9/-solr/linkdb/current
-2014-09-23 19:59:15,071 ERROR indexer.IndexingJob - Indexer: org.apache.hadoop.mapred.InvalidInputException: Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/-solr/segments/*/crawl_fetch matches 0 files
-Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/-solr/segments/*/crawl_parse matches 0 files
-Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/-solr/segments/*/parse_data matches 0 files
-Input Pattern file:/var/www/html/SELK/apache-nutch-1.9/-solr/segments/*/parse_text matches 0 files
-Input path does not exist: file:/var/www/html/SELK/apache-nutch-1.9/-solr/linkdb/current
-	at org.apache.hadoop.mapred.FileInputFormat.listStatus(FileInputFormat.java:197)
-	at org.apache.hadoop.mapred.SequenceFileInputFormat.listStatus(SequenceFileInputFormat.java:40)
-	at org.apache.hadoop.mapred.FileInputFormat.getSplits(FileInputFormat.java:208)
-	at org.apache.hadoop.mapred.JobClient.writeOldSplits(JobClient.java:1081)
-	at org.apache.hadoop.mapred.JobClient.writeSplits(JobClient.java:1073)
-	at org.apache.hadoop.mapred.JobClient.access$700(JobClient.java:179)
-	at org.apache.hadoop.mapred.JobClient$2.run(JobClient.java:983)
-	at org.apache.hadoop.mapred.JobClient$2.run(JobClient.java:936)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at javax.security.auth.Subject.doAs(Subject.java:422)
-	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1190)
-	at org.apache.hadoop.mapred.JobClient.submitJobInternal(JobClient.java:936)
-	at org.apache.hadoop.mapred.JobClient.submitJob(JobClient.java:910)
-	at org.apache.hadoop.mapred.JobClient.runJob(JobClient.java:1353)
-	at org.apache.nutch.indexer.IndexingJob.index(IndexingJob.java:114)
-	at org.apache.nutch.indexer.IndexingJob.run(IndexingJob.java:176)
-	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:65)
-	at org.apache.nutch.indexer.IndexingJob.main(IndexingJob.java:186)
-
-2014-09-23 19:59:35,830 INFO  indexer.IndexWriters - Adding org.apache.nutch.indexwriter.solr.SolrIndexWriter
-2014-09-23 20:01:20,344 INFO  crawl.Injector - Injector: starting at 2014-09-23 20:01:20
-2014-09-23 20:01:20,345 INFO  crawl.Injector - Injector: crawlDb: -dir/crawldb
-2014-09-23 20:01:20,345 INFO  crawl.Injector - Injector: urlDir: urls
-2014-09-23 20:01:20,346 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
-2014-09-23 20:01:20,680 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 20:01:20,725 WARN  snappy.LoadSnappy - Snappy native library not loaded
-2014-09-23 20:01:21,291 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
-2014-09-23 20:01:21,332 INFO  crawl.Injector - Injector: overwrite: false
-2014-09-23 20:01:21,333 INFO  crawl.Injector - Injector: update: false
-2014-09-23 20:01:21,995 INFO  crawl.Injector - Injector: Total number of urls rejected by filters: 0
-2014-09-23 20:01:21,995 INFO  crawl.Injector - Injector: Total number of urls after normalization: 1
-2014-09-23 20:01:21,999 INFO  crawl.Injector - Injector: Total new urls injected: 1
-2014-09-23 20:01:22,000 INFO  crawl.Injector - Injector: finished at 2014-09-23 20:01:22, elapsed: 00:00:01
-2014-09-23 20:04:02,323 INFO  indexer.IndexWriters - Adding org.apache.nutch.indexwriter.solr.SolrIndexWriter
-2014-09-23 20:04:26,517 INFO  indexer.IndexWriters - Adding org.apache.nutch.indexwriter.solr.SolrIndexWriter
-2014-09-23 20:07:08,120 INFO  crawl.Injector - Injector: starting at 2014-09-23 20:07:08
-2014-09-23 20:07:08,121 INFO  crawl.Injector - Injector: crawlDb: TestCrawl/crawldb
-2014-09-23 20:07:08,121 INFO  crawl.Injector - Injector: urlDir: urls/seed.txt
-2014-09-23 20:07:08,122 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
-2014-09-23 20:07:08,384 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 20:07:08,461 WARN  snappy.LoadSnappy - Snappy native library not loaded
-2014-09-23 20:07:09,061 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
-2014-09-23 20:07:09,117 INFO  crawl.Injector - Injector: overwrite: false
-2014-09-23 20:07:09,117 INFO  crawl.Injector - Injector: update: false
-2014-09-23 20:07:09,703 INFO  crawl.Injector - Injector: Total number of urls rejected by filters: 0
-2014-09-23 20:07:09,703 INFO  crawl.Injector - Injector: Total number of urls after normalization: 1
-2014-09-23 20:07:09,707 INFO  crawl.Injector - Injector: Total new urls injected: 1
-2014-09-23 20:07:09,708 INFO  crawl.Injector - Injector: finished at 2014-09-23 20:07:09, elapsed: 00:00:01
-2014-09-23 20:07:10,670 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 20:07:10,672 INFO  crawl.Generator - Generator: starting at 2014-09-23 20:07:10
-2014-09-23 20:07:10,672 INFO  crawl.Generator - Generator: Selecting best-scoring urls due for fetch.
-2014-09-23 20:07:10,672 INFO  crawl.Generator - Generator: filtering: false
-2014-09-23 20:07:10,672 INFO  crawl.Generator - Generator: normalizing: true
-2014-09-23 20:07:10,673 INFO  crawl.Generator - Generator: topN: 50000
-2014-09-23 20:07:11,428 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
-2014-09-23 20:07:11,428 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
-2014-09-23 20:07:11,428 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
-2014-09-23 20:07:11,435 INFO  regex.RegexURLNormalizer - can't find rules for scope 'partition', using default
-2014-09-23 20:07:11,481 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
-2014-09-23 20:07:11,481 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
-2014-09-23 20:07:11,481 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
-2014-09-23 20:07:11,487 INFO  regex.RegexURLNormalizer - can't find rules for scope 'generate_host_count', using default
-2014-09-23 20:07:12,018 INFO  crawl.Generator - Generator: Partitioning selected urls for politeness.
-2014-09-23 20:07:13,018 INFO  crawl.Generator - Generator: segment: TestCrawl/segments/20140923200713
-2014-09-23 20:07:13,113 INFO  regex.RegexURLNormalizer - can't find rules for scope 'partition', using default
-2014-09-23 20:07:14,078 INFO  crawl.Generator - Generator: finished at 2014-09-23 20:07:14, elapsed: 00:00:03
-2014-09-23 20:07:14,823 INFO  fetcher.Fetcher - Fetcher: starting at 2014-09-23 20:07:14
-2014-09-23 20:07:14,824 INFO  fetcher.Fetcher - Fetcher: segment: TestCrawl/segments/20140923200713
-2014-09-23 20:07:14,824 INFO  fetcher.Fetcher - Fetcher Timelimit set for : 1411513634824
-2014-09-23 20:07:15,144 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 20:07:15,581 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,581 INFO  fetcher.Fetcher - Fetcher: threads: 50
-2014-09-23 20:07:15,581 INFO  fetcher.Fetcher - Fetcher: time-out divisor: 2
-2014-09-23 20:07:15,613 INFO  fetcher.Fetcher - QueueFeeder finished: total 1 records + hit by time limit :0
-2014-09-23 20:07:15,794 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,795 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,796 INFO  fetcher.Fetcher - fetching http://www.alwakeelnews.com/ (queue crawl delay=5000ms)
-2014-09-23 20:07:15,800 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,802 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,802 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,807 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,808 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,808 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,810 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,810 INFO  http.Http - http.proxy.host = null
-2014-09-23 20:07:15,811 INFO  http.Http - http.proxy.port = 8080
-2014-09-23 20:07:15,811 INFO  http.Http - http.timeout = 10000
-2014-09-23 20:07:15,811 INFO  http.Http - http.content.limit = 65536
-2014-09-23 20:07:15,811 INFO  http.Http - http.agent = My Nutch Spider/Nutch-1.9
-2014-09-23 20:07:15,811 INFO  http.Http - http.accept.language = en-us,en-gb,en;q=0.7,*;q=0.3
-2014-09-23 20:07:15,811 INFO  http.Http - http.accept = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-2014-09-23 20:07:15,813 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,814 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,817 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,819 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,819 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,820 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,820 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,820 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,826 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,826 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,826 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,827 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,827 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,827 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,827 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,828 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,828 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,828 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,829 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,829 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,836 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,836 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,834 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,836 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,837 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,837 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,837 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,838 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,838 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,838 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,838 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,839 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,839 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,839 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,840 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,840 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,840 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,840 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,841 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,841 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,841 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,842 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,842 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,842 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,842 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,843 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,843 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,843 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,844 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,844 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,844 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,844 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,844 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,845 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,845 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,845 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,846 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,846 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,846 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,847 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,847 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,847 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,847 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,848 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,848 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,848 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,849 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,849 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,849 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,849 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,849 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,850 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,850 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,850 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,851 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,851 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,851 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,853 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,853 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,853 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,854 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,854 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,854 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,855 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,855 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,855 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,856 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,857 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,857 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,857 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,857 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,858 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,858 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,858 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,858 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,858 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,859 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,859 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,860 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=2
-2014-09-23 20:07:15,860 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,860 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,860 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=2
-2014-09-23 20:07:15,859 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,861 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,861 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,863 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,865 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,868 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,869 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,870 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,870 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,870 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,870 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,871 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,871 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,871 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,871 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,872 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,872 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,872 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,872 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,872 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,873 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,873 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,873 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,873 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,874 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,874 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,874 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,874 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,874 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,875 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,875 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,875 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,875 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:15,875 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,876 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:15,876 INFO  fetcher.Fetcher - Fetcher: throughput threshold: -1
-2014-09-23 20:07:15,876 INFO  fetcher.Fetcher - Fetcher: throughput threshold retries: 5
-2014-09-23 20:07:15,876 INFO  fetcher.Fetcher - fetcher.maxNum.threads can't be < than 50 : using 50 instead
-2014-09-23 20:07:15,876 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:15,876 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:16,878 INFO  fetcher.Fetcher - -activeThreads=1, spinWaiting=0, fetchQueues.totalSize=0, fetchQueues.getQueueCount=1
-2014-09-23 20:07:17,878 INFO  fetcher.Fetcher - -activeThreads=1, spinWaiting=0, fetchQueues.totalSize=0, fetchQueues.getQueueCount=1
-2014-09-23 20:07:18,879 INFO  fetcher.Fetcher - -activeThreads=1, spinWaiting=0, fetchQueues.totalSize=0, fetchQueues.getQueueCount=1
-2014-09-23 20:07:19,879 INFO  fetcher.Fetcher - -activeThreads=1, spinWaiting=0, fetchQueues.totalSize=0, fetchQueues.getQueueCount=1
-2014-09-23 20:07:20,880 INFO  fetcher.Fetcher - -activeThreads=1, spinWaiting=0, fetchQueues.totalSize=0, fetchQueues.getQueueCount=1
-2014-09-23 20:07:21,880 INFO  fetcher.Fetcher - -activeThreads=1, spinWaiting=0, fetchQueues.totalSize=0, fetchQueues.getQueueCount=1
-2014-09-23 20:07:22,881 INFO  fetcher.Fetcher - -activeThreads=1, spinWaiting=0, fetchQueues.totalSize=0, fetchQueues.getQueueCount=1
-2014-09-23 20:07:23,881 INFO  fetcher.Fetcher - -activeThreads=1, spinWaiting=0, fetchQueues.totalSize=0, fetchQueues.getQueueCount=1
-2014-09-23 20:07:24,883 INFO  fetcher.Fetcher - -activeThreads=1, spinWaiting=0, fetchQueues.totalSize=0, fetchQueues.getQueueCount=1
-2014-09-23 20:07:25,883 INFO  fetcher.Fetcher - -activeThreads=1, spinWaiting=0, fetchQueues.totalSize=0, fetchQueues.getQueueCount=1
-2014-09-23 20:07:25,988 INFO  api.HttpRobotRulesParser - Couldn't get robots.txt for http://www.alwakeelnews.com/: java.net.SocketTimeoutException: connect timed out
-2014-09-23 20:07:26,884 INFO  fetcher.Fetcher - -activeThreads=1, spinWaiting=0, fetchQueues.totalSize=0, fetchQueues.getQueueCount=1
-2014-09-23 20:07:27,061 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:27,061 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=0
-2014-09-23 20:07:27,884 INFO  fetcher.Fetcher - -activeThreads=0, spinWaiting=0, fetchQueues.totalSize=0, fetchQueues.getQueueCount=0
-2014-09-23 20:07:27,884 INFO  fetcher.Fetcher - -activeThreads=0
-2014-09-23 20:07:28,415 INFO  fetcher.Fetcher - Fetcher: finished at 2014-09-23 20:07:28, elapsed: 00:00:13
-2014-09-23 20:07:29,160 INFO  parse.ParseSegment - ParseSegment: starting at 2014-09-23 20:07:29
-2014-09-23 20:07:29,161 INFO  parse.ParseSegment - ParseSegment: segment: TestCrawl/segments/20140923200713
-2014-09-23 20:07:29,454 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 20:07:30,360 INFO  crawl.SignatureFactory - Using Signature impl: org.apache.nutch.crawl.MD5Signature
-2014-09-23 20:07:30,375 INFO  parse.ParseSegment - Parsed (17ms):http://www.alwakeelnews.com/
-2014-09-23 20:07:30,487 INFO  regex.RegexURLNormalizer - can't find rules for scope 'outlink', using default
-2014-09-23 20:07:30,734 INFO  parse.ParseSegment - ParseSegment: finished at 2014-09-23 20:07:30, elapsed: 00:00:01
-2014-09-23 20:07:31,692 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 20:07:31,711 INFO  crawl.CrawlDb - CrawlDb update: starting at 2014-09-23 20:07:31
-2014-09-23 20:07:31,711 INFO  crawl.CrawlDb - CrawlDb update: db: TestCrawl/crawldb
-2014-09-23 20:07:31,711 INFO  crawl.CrawlDb - CrawlDb update: segments: [TestCrawl/segments/20140923200713]
-2014-09-23 20:07:31,711 INFO  crawl.CrawlDb - CrawlDb update: additions allowed: true
-2014-09-23 20:07:31,711 INFO  crawl.CrawlDb - CrawlDb update: URL normalizing: false
-2014-09-23 20:07:31,712 INFO  crawl.CrawlDb - CrawlDb update: URL filtering: false
-2014-09-23 20:07:31,712 INFO  crawl.CrawlDb - CrawlDb update: 404 purging: false
-2014-09-23 20:07:31,713 INFO  crawl.CrawlDb - CrawlDb update: Merging segment data into db.
-2014-09-23 20:07:32,521 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
-2014-09-23 20:07:32,522 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
-2014-09-23 20:07:32,522 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
-2014-09-23 20:07:33,055 INFO  crawl.CrawlDb - CrawlDb update: finished at 2014-09-23 20:07:33, elapsed: 00:00:01
-2014-09-23 20:07:34,087 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 20:07:34,088 INFO  crawl.LinkDb - LinkDb: starting at 2014-09-23 20:07:34
-2014-09-23 20:07:34,089 INFO  crawl.LinkDb - LinkDb: linkdb: TestCrawl/linkdb
-2014-09-23 20:07:34,089 INFO  crawl.LinkDb - LinkDb: URL normalize: true
-2014-09-23 20:07:34,089 INFO  crawl.LinkDb - LinkDb: URL filter: true
-2014-09-23 20:07:34,089 INFO  crawl.LinkDb - LinkDb: internal links will be ignored.
-2014-09-23 20:07:34,089 INFO  crawl.LinkDb - LinkDb: adding segment: TestCrawl/segments/20140923200713
-2014-09-23 20:07:34,755 INFO  regex.RegexURLNormalizer - can't find rules for scope 'linkdb', using default
-2014-09-23 20:07:35,424 INFO  crawl.LinkDb - LinkDb: finished at 2014-09-23 20:07:35, elapsed: 00:00:01
-2014-09-23 20:07:36,180 INFO  crawl.DeduplicationJob - DeduplicationJob: starting at 2014-09-23 20:07:36
-2014-09-23 20:07:36,456 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 20:07:37,782 INFO  crawl.DeduplicationJob - Deduplication: 0 documents marked as duplicates
-2014-09-23 20:07:37,782 INFO  crawl.DeduplicationJob - Deduplication: Updating status of duplicate urls into crawl db.
-2014-09-23 20:07:38,943 INFO  crawl.DeduplicationJob - Deduplication finished at 2014-09-23 20:07:38, elapsed: 00:00:02
-2014-09-23 20:07:39,691 INFO  indexer.IndexingJob - Indexer: starting at 2014-09-23 20:07:39
-2014-09-23 20:07:39,738 INFO  indexer.IndexingJob - Indexer: deleting gone documents: false
-2014-09-23 20:07:39,739 INFO  indexer.IndexingJob - Indexer: URL filtering: false
-2014-09-23 20:07:39,739 INFO  indexer.IndexingJob - Indexer: URL normalizing: false
-2014-09-23 20:07:39,927 INFO  indexer.IndexWriters - Adding org.apache.nutch.indexwriter.solr.SolrIndexWriter
-2014-09-23 20:07:39,927 INFO  indexer.IndexingJob - Active IndexWriters :
-SOLRIndexWriter
-	solr.server.url : URL of the SOLR instance (mandatory)
-	solr.commit.size : buffer size when sending to SOLR (default 1000)
-	solr.mapping.file : name of the mapping file for fields (default solrindex-mapping.xml)
-	solr.auth : use authentication (default false)
-	solr.auth.username : use authentication (default false)
-	solr.auth : username for authentication
-	solr.auth.password : password for authentication
-
-
-2014-09-23 20:07:39,942 INFO  indexer.IndexerMapReduce - IndexerMapReduce: crawldb: TestCrawl/crawldb
-2014-09-23 20:07:39,942 INFO  indexer.IndexerMapReduce - IndexerMapReduce: linkdb: TestCrawl/linkdb
-2014-09-23 20:07:39,942 INFO  indexer.IndexerMapReduce - IndexerMapReduces: adding segment: TestCrawl/segments/20140923200713
-2014-09-23 20:07:40,152 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 20:07:40,644 INFO  anchor.AnchorIndexingFilter - Anchor deduplication is: off
-2014-09-23 20:07:40,928 INFO  indexer.IndexWriters - Adding org.apache.nutch.indexwriter.solr.SolrIndexWriter
-2014-09-23 20:07:40,958 INFO  solr.SolrMappingReader - source: content dest: content
-2014-09-23 20:07:40,958 INFO  solr.SolrMappingReader - source: title dest: title
-2014-09-23 20:07:40,958 INFO  solr.SolrMappingReader - source: host dest: host
-2014-09-23 20:07:40,958 INFO  solr.SolrMappingReader - source: segment dest: segment
-2014-09-23 20:07:40,958 INFO  solr.SolrMappingReader - source: boost dest: boost
-2014-09-23 20:07:40,958 INFO  solr.SolrMappingReader - source: digest dest: digest
-2014-09-23 20:07:40,958 INFO  solr.SolrMappingReader - source: tstamp dest: tstamp
-2014-09-23 20:07:40,981 INFO  solr.SolrIndexWriter - Indexing 1 documents
-2014-09-23 20:07:41,474 INFO  solr.SolrMappingReader - source: content dest: content
-2014-09-23 20:07:41,474 INFO  solr.SolrMappingReader - source: title dest: title
-2014-09-23 20:07:41,474 INFO  solr.SolrMappingReader - source: host dest: host
-2014-09-23 20:07:41,474 INFO  solr.SolrMappingReader - source: segment dest: segment
-2014-09-23 20:07:41,474 INFO  solr.SolrMappingReader - source: boost dest: boost
-2014-09-23 20:07:41,474 INFO  solr.SolrMappingReader - source: digest dest: digest
-2014-09-23 20:07:41,474 INFO  solr.SolrMappingReader - source: tstamp dest: tstamp
-2014-09-23 20:07:41,665 INFO  indexer.IndexingJob - Indexer: finished at 2014-09-23 20:07:41, elapsed: 00:00:01
-2014-09-23 20:07:42,426 INFO  indexer.CleaningJob - CleaningJob: starting at 2014-09-23 20:07:42
-2014-09-23 20:07:42,688 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 20:07:43,271 INFO  indexer.IndexWriters - Adding org.apache.nutch.indexwriter.solr.SolrIndexWriter
-2014-09-23 20:07:43,294 INFO  solr.SolrMappingReader - source: content dest: content
-2014-09-23 20:07:43,294 INFO  solr.SolrMappingReader - source: title dest: title
-2014-09-23 20:07:43,294 INFO  solr.SolrMappingReader - source: host dest: host
-2014-09-23 20:07:43,294 INFO  solr.SolrMappingReader - source: segment dest: segment
-2014-09-23 20:07:43,294 INFO  solr.SolrMappingReader - source: boost dest: boost
-2014-09-23 20:07:43,294 INFO  solr.SolrMappingReader - source: digest dest: digest
-2014-09-23 20:07:43,295 INFO  solr.SolrMappingReader - source: tstamp dest: tstamp
-2014-09-23 20:07:43,302 INFO  indexer.CleaningJob - CleaningJob: deleted a total of 0 documents
-2014-09-23 20:07:43,304 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
-2014-09-23 20:07:43,964 INFO  indexer.CleaningJob - CleaningJob: finished at 2014-09-23 20:07:43, elapsed: 00:00:01
-2014-09-23 20:07:44,976 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 20:07:44,977 INFO  crawl.Generator - Generator: starting at 2014-09-23 20:07:44
-2014-09-23 20:07:44,978 INFO  crawl.Generator - Generator: Selecting best-scoring urls due for fetch.
-2014-09-23 20:07:44,978 INFO  crawl.Generator - Generator: filtering: false
-2014-09-23 20:07:44,978 INFO  crawl.Generator - Generator: normalizing: true
-2014-09-23 20:07:44,978 INFO  crawl.Generator - Generator: topN: 50000
-2014-09-23 20:07:45,629 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
-2014-09-23 20:07:45,630 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
-2014-09-23 20:07:45,630 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
-2014-09-23 20:07:45,639 INFO  regex.RegexURLNormalizer - can't find rules for scope 'partition', using default
-2014-09-23 20:07:45,700 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
-2014-09-23 20:07:45,700 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
-2014-09-23 20:07:45,700 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
-2014-09-23 20:07:45,708 INFO  regex.RegexURLNormalizer - can't find rules for scope 'generate_host_count', using default
-2014-09-23 20:07:46,315 INFO  crawl.Generator - Generator: Partitioning selected urls for politeness.
-2014-09-23 20:07:47,315 INFO  crawl.Generator - Generator: segment: TestCrawl/segments/20140923200747
-2014-09-23 20:07:47,440 INFO  regex.RegexURLNormalizer - can't find rules for scope 'partition', using default
-2014-09-23 20:07:48,400 INFO  crawl.Generator - Generator: finished at 2014-09-23 20:07:48, elapsed: 00:00:03
-2014-09-23 20:07:49,157 INFO  fetcher.Fetcher - Fetcher: starting at 2014-09-23 20:07:49
-2014-09-23 20:07:49,166 INFO  fetcher.Fetcher - Fetcher: segment: TestCrawl/segments/20140923200747
-2014-09-23 20:07:49,166 INFO  fetcher.Fetcher - Fetcher Timelimit set for : 1411513669166
-2014-09-23 20:07:49,469 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 20:07:49,915 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:49,916 INFO  fetcher.Fetcher - Fetcher: threads: 50
-2014-09-23 20:07:49,916 INFO  fetcher.Fetcher - Fetcher: time-out divisor: 2
-2014-09-23 20:07:49,943 INFO  fetcher.Fetcher - QueueFeeder finished: total 3 records + hit by time limit :0
-2014-09-23 20:07:50,106 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,106 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,107 INFO  fetcher.Fetcher - fetching http://me.effectivemeasure.net/em_image (queue crawl delay=5000ms)
-2014-09-23 20:07:50,114 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,118 INFO  fetcher.Fetcher - fetching http://www.alwakeelnews.com/index.php (queue crawl delay=5000ms)
-2014-09-23 20:07:50,119 INFO  http.Http - http.proxy.host = null
-2014-09-23 20:07:50,119 INFO  http.Http - http.proxy.port = 8080
-2014-09-23 20:07:50,119 INFO  http.Http - http.timeout = 10000
-2014-09-23 20:07:50,119 INFO  http.Http - http.content.limit = 65536
-2014-09-23 20:07:50,119 INFO  http.Http - http.agent = My Nutch Spider/Nutch-1.9
-2014-09-23 20:07:50,119 INFO  http.Http - http.accept.language = en-us,en-gb,en;q=0.7,*;q=0.3
-2014-09-23 20:07:50,119 INFO  http.Http - http.accept = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-2014-09-23 20:07:50,120 INFO  http.Http - http.proxy.host = null
-2014-09-23 20:07:50,120 INFO  http.Http - http.proxy.port = 8080
-2014-09-23 20:07:50,120 INFO  http.Http - http.timeout = 10000
-2014-09-23 20:07:50,121 INFO  fetcher.Fetcher - fetching http://www.youtube.com/embed/Ruv0o5QiZqQ (queue crawl delay=5000ms)
-2014-09-23 20:07:50,121 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,125 INFO  http.Http - http.content.limit = 65536
-2014-09-23 20:07:50,126 INFO  http.Http - http.agent = My Nutch Spider/Nutch-1.9
-2014-09-23 20:07:50,126 INFO  http.Http - http.accept.language = en-us,en-gb,en;q=0.7,*;q=0.3
-2014-09-23 20:07:50,126 INFO  http.Http - http.accept = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-2014-09-23 20:07:50,126 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,127 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,127 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,127 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,127 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,128 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,128 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,128 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,129 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,129 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,130 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,131 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,131 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,132 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,132 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,132 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,132 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,132 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,134 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,134 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,135 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,135 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,136 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,136 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,138 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,141 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,141 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,141 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,142 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=5
-2014-09-23 20:07:50,142 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,142 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=4
-2014-09-23 20:07:50,142 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,143 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,144 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,144 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,144 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,145 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,145 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,145 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,145 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,151 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,151 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,152 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=4
-2014-09-23 20:07:50,152 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,152 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,152 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,152 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,152 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,153 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,153 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,153 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,154 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,154 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,154 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,154 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,154 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,155 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,155 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,155 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,155 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,156 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,156 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,156 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,156 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,156 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,157 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,157 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,157 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,157 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,158 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,158 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,158 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,158 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,158 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,159 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,159 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,159 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,159 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,160 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,160 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,160 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,160 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,166 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,166 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,166 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,166 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,166 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,167 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,167 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,167 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,167 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,168 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,168 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,168 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,168 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,168 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,169 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,169 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,169 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,173 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,174 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,174 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,175 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,175 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,175 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,177 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,178 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,179 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,179 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,179 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,179 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,179 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,180 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,180 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,180 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,180 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,181 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,181 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,181 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,181 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,182 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,182 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,182 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,182 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,182 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,182 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,183 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,183 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,183 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,183 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,184 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,184 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,184 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,184 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,184 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,185 INFO  fetcher.Fetcher - Using queue mode : byHost
-2014-09-23 20:07:50,185 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,185 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,185 INFO  fetcher.Fetcher - Fetcher: throughput threshold: -1
-2014-09-23 20:07:50,185 INFO  fetcher.Fetcher - Fetcher: throughput threshold retries: 5
-2014-09-23 20:07:50,185 INFO  fetcher.Fetcher - fetcher.maxNum.threads can't be < than 50 : using 50 instead
-2014-09-23 20:07:50,186 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,186 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=3
-2014-09-23 20:07:50,445 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,445 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=2
-2014-09-23 20:07:50,451 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:50,451 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=1
-2014-09-23 20:07:51,087 INFO  fetcher.Fetcher - Thread FetcherThread has no more work available
-2014-09-23 20:07:51,087 INFO  fetcher.Fetcher - -finishing thread FetcherThread, activeThreads=0
-2014-09-23 20:07:51,187 INFO  fetcher.Fetcher - -activeThreads=0, spinWaiting=0, fetchQueues.totalSize=0, fetchQueues.getQueueCount=0
-2014-09-23 20:07:51,187 INFO  fetcher.Fetcher - -activeThreads=0
-2014-09-23 20:07:51,756 INFO  fetcher.Fetcher - Fetcher: finished at 2014-09-23 20:07:51, elapsed: 00:00:02
-2014-09-23 20:07:52,515 INFO  parse.ParseSegment - ParseSegment: starting at 2014-09-23 20:07:52
-2014-09-23 20:07:52,519 INFO  parse.ParseSegment - ParseSegment: segment: TestCrawl/segments/20140923200747
-2014-09-23 20:07:52,778 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 20:07:53,322 INFO  parse.ParserFactory - The parsing plugins: [org.apache.nutch.parse.tika.TikaParser] are enabled via the plugin.includes system property, and all claim to support the content type image/gif, but they are not mapped to it  in the parse-plugins.xml file
-2014-09-23 20:07:53,888 INFO  crawl.SignatureFactory - Using Signature impl: org.apache.nutch.crawl.MD5Signature
-2014-09-23 20:07:53,890 INFO  parse.ParseSegment - Parsed (5ms):http://me.effectivemeasure.net/em_image
-2014-09-23 20:07:54,138 INFO  parse.ParseSegment - Parsed (15ms):http://www.alwakeelnews.com/index.php
-2014-09-23 20:07:54,161 INFO  parse.ParseSegment - Parsed (0ms):http://www.youtube.com/embed/Ruv0o5QiZqQ
-2014-09-23 20:07:54,284 INFO  regex.RegexURLNormalizer - can't find rules for scope 'outlink', using default
-2014-09-23 20:07:55,049 INFO  parse.ParseSegment - ParseSegment: finished at 2014-09-23 20:07:55, elapsed: 00:00:02
-2014-09-23 20:07:56,075 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 20:07:56,092 INFO  crawl.CrawlDb - CrawlDb update: starting at 2014-09-23 20:07:56
-2014-09-23 20:07:56,093 INFO  crawl.CrawlDb - CrawlDb update: db: TestCrawl/crawldb
-2014-09-23 20:07:56,093 INFO  crawl.CrawlDb - CrawlDb update: segments: [TestCrawl/segments/20140923200747]
-2014-09-23 20:07:56,093 INFO  crawl.CrawlDb - CrawlDb update: additions allowed: true
-2014-09-23 20:07:56,093 INFO  crawl.CrawlDb - CrawlDb update: URL normalizing: false
-2014-09-23 20:07:56,093 INFO  crawl.CrawlDb - CrawlDb update: URL filtering: false
-2014-09-23 20:07:56,093 INFO  crawl.CrawlDb - CrawlDb update: 404 purging: false
-2014-09-23 20:07:56,094 INFO  crawl.CrawlDb - CrawlDb update: Merging segment data into db.
-2014-09-23 20:07:56,813 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
-2014-09-23 20:07:56,814 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
-2014-09-23 20:07:56,814 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
-2014-09-23 20:07:57,385 INFO  crawl.CrawlDb - CrawlDb update: finished at 2014-09-23 20:07:57, elapsed: 00:00:01
-2014-09-23 20:07:58,421 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 20:07:58,423 INFO  crawl.LinkDb - LinkDb: starting at 2014-09-23 20:07:58
-2014-09-23 20:07:58,423 INFO  crawl.LinkDb - LinkDb: linkdb: TestCrawl/linkdb
-2014-09-23 20:07:58,424 INFO  crawl.LinkDb - LinkDb: URL normalize: true
-2014-09-23 20:07:58,424 INFO  crawl.LinkDb - LinkDb: URL filter: true
-2014-09-23 20:07:58,424 INFO  crawl.LinkDb - LinkDb: internal links will be ignored.
-2014-09-23 20:07:58,424 INFO  crawl.LinkDb - LinkDb: adding segment: TestCrawl/segments/20140923200747
-2014-09-23 20:07:59,773 INFO  crawl.LinkDb - LinkDb: merging with existing linkdb: TestCrawl/linkdb
-2014-09-23 20:08:00,045 INFO  regex.RegexURLNormalizer - can't find rules for scope 'linkdb', using default
-2014-09-23 20:08:00,099 INFO  regex.RegexURLNormalizer - can't find rules for scope 'linkdb', using default
-2014-09-23 20:08:00,850 INFO  crawl.LinkDb - LinkDb: finished at 2014-09-23 20:08:00, elapsed: 00:00:02
-2014-09-23 20:08:01,627 INFO  crawl.DeduplicationJob - DeduplicationJob: starting at 2014-09-23 20:08:01
-2014-09-23 20:08:01,945 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 20:08:03,213 INFO  crawl.DeduplicationJob - Deduplication: 0 documents marked as duplicates
-2014-09-23 20:08:03,213 INFO  crawl.DeduplicationJob - Deduplication: Updating status of duplicate urls into crawl db.
-2014-09-23 20:08:04,350 INFO  crawl.DeduplicationJob - Deduplication finished at 2014-09-23 20:08:04, elapsed: 00:00:02
-2014-09-23 20:08:05,083 INFO  indexer.IndexingJob - Indexer: starting at 2014-09-23 20:08:05
-2014-09-23 20:08:05,176 INFO  indexer.IndexingJob - Indexer: deleting gone documents: false
-2014-09-23 20:08:05,177 INFO  indexer.IndexingJob - Indexer: URL filtering: false
-2014-09-23 20:08:05,177 INFO  indexer.IndexingJob - Indexer: URL normalizing: false
-2014-09-23 20:08:05,438 INFO  indexer.IndexWriters - Adding org.apache.nutch.indexwriter.solr.SolrIndexWriter
-2014-09-23 20:08:05,438 INFO  indexer.IndexingJob - Active IndexWriters :
-SOLRIndexWriter
-	solr.server.url : URL of the SOLR instance (mandatory)
-	solr.commit.size : buffer size when sending to SOLR (default 1000)
-	solr.mapping.file : name of the mapping file for fields (default solrindex-mapping.xml)
-	solr.auth : use authentication (default false)
-	solr.auth.username : use authentication (default false)
-	solr.auth : username for authentication
-	solr.auth.password : password for authentication
-
-
-2014-09-23 20:08:05,442 INFO  indexer.IndexerMapReduce - IndexerMapReduce: crawldb: TestCrawl/crawldb
-2014-09-23 20:08:05,442 INFO  indexer.IndexerMapReduce - IndexerMapReduce: linkdb: TestCrawl/linkdb
-2014-09-23 20:08:05,442 INFO  indexer.IndexerMapReduce - IndexerMapReduces: adding segment: TestCrawl/segments/20140923200747
-2014-09-23 20:08:05,620 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 20:08:06,046 INFO  anchor.AnchorIndexingFilter - Anchor deduplication is: off
-2014-09-23 20:08:06,341 INFO  indexer.IndexWriters - Adding org.apache.nutch.indexwriter.solr.SolrIndexWriter
-2014-09-23 20:08:06,372 INFO  solr.SolrMappingReader - source: content dest: content
-2014-09-23 20:08:06,379 INFO  solr.SolrMappingReader - source: title dest: title
-2014-09-23 20:08:06,379 INFO  solr.SolrMappingReader - source: host dest: host
-2014-09-23 20:08:06,379 INFO  solr.SolrMappingReader - source: segment dest: segment
-2014-09-23 20:08:06,379 INFO  solr.SolrMappingReader - source: boost dest: boost
-2014-09-23 20:08:06,379 INFO  solr.SolrMappingReader - source: digest dest: digest
-2014-09-23 20:08:06,381 INFO  solr.SolrMappingReader - source: tstamp dest: tstamp
-2014-09-23 20:08:06,406 INFO  solr.SolrIndexWriter - Indexing 3 documents
-2014-09-23 20:08:06,880 INFO  solr.SolrMappingReader - source: content dest: content
-2014-09-23 20:08:06,880 INFO  solr.SolrMappingReader - source: title dest: title
-2014-09-23 20:08:06,880 INFO  solr.SolrMappingReader - source: host dest: host
-2014-09-23 20:08:06,880 INFO  solr.SolrMappingReader - source: segment dest: segment
-2014-09-23 20:08:06,880 INFO  solr.SolrMappingReader - source: boost dest: boost
-2014-09-23 20:08:06,880 INFO  solr.SolrMappingReader - source: digest dest: digest
-2014-09-23 20:08:06,880 INFO  solr.SolrMappingReader - source: tstamp dest: tstamp
-2014-09-23 20:08:06,968 INFO  indexer.IndexingJob - Indexer: finished at 2014-09-23 20:08:06, elapsed: 00:00:01
-2014-09-23 20:08:07,671 INFO  indexer.CleaningJob - CleaningJob: starting at 2014-09-23 20:08:07
-2014-09-23 20:08:08,033 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2014-09-23 20:08:08,713 INFO  indexer.IndexWriters - Adding org.apache.nutch.indexwriter.solr.SolrIndexWriter
-2014-09-23 20:08:08,749 INFO  solr.SolrMappingReader - source: content dest: content
-2014-09-23 20:08:08,749 INFO  solr.SolrMappingReader - source: title dest: title
-2014-09-23 20:08:08,749 INFO  solr.SolrMappingReader - source: host dest: host
-2014-09-23 20:08:08,749 INFO  solr.SolrMappingReader - source: segment dest: segment
-2014-09-23 20:08:08,749 INFO  solr.SolrMappingReader - source: boost dest: boost
-2014-09-23 20:08:08,749 INFO  solr.SolrMappingReader - source: digest dest: digest
-2014-09-23 20:08:08,749 INFO  solr.SolrMappingReader - source: tstamp dest: tstamp
-2014-09-23 20:08:08,757 INFO  indexer.CleaningJob - CleaningJob: deleted a total of 0 documents
-2014-09-23 20:08:08,765 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
-2014-09-23 20:08:09,335 INFO  indexer.CleaningJob - CleaningJob: finished at 2014-09-23 20:08:09, elapsed: 00:00:01
+2014-10-01 18:00:26,684 INFO  crawl.Injector - Injector: starting at 2014-10-01 18:00:26
+2014-10-01 18:00:26,685 INFO  crawl.Injector - Injector: crawlDb: -solr/crawldb
+2014-10-01 18:00:26,685 INFO  crawl.Injector - Injector: urlDir: urls
+2014-10-01 18:00:26,686 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
+2014-10-01 18:00:26,929 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2014-10-01 18:00:26,979 WARN  snappy.LoadSnappy - Snappy native library not loaded
+2014-10-01 18:00:27,493 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
+2014-10-01 18:00:28,217 INFO  crawl.Injector - Injector: Total number of urls rejected by filters: 1
+2014-10-01 18:00:28,217 INFO  crawl.Injector - Injector: Total number of urls after normalization: 0
+2014-10-01 18:00:28,217 INFO  crawl.Injector - Injector: Merging injected urls into crawl db.
+2014-10-01 18:00:28,422 INFO  crawl.Injector - Injector: overwrite: false
+2014-10-01 18:00:28,422 INFO  crawl.Injector - Injector: update: false
+2014-10-01 18:00:29,292 INFO  crawl.Injector - Injector: URLs merged: 0
+2014-10-01 18:00:29,296 INFO  crawl.Injector - Injector: Total new urls injected: 0
+2014-10-01 18:00:29,296 INFO  crawl.Injector - Injector: finished at 2014-10-01 18:00:29, elapsed: 00:00:02
