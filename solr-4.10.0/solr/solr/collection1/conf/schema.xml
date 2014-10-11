@@ -55,6 +55,37 @@
 -->                <filter class="solr.RemoveDuplicatesTokenFilterFactory"/>
             </analyzer>
         </fieldType>
+
+<fieldType name="text_general" class="solr.TextField" positionIncrementGap="100">
+<analyzer type="index">
+<charFilter class="solr.HTMLStripCharFilterFactory"/>
+<tokenizer class="solr.StandardTokenizerFactory"/>
+<filter class="solr.RemoveDuplicatesTokenFilterFactory"/>
+<!--
+  <filter class="solr.CommonGramsFilterFactory" ignoreCase="true" words="stopwords.txt"/> 
+-->
+<filter class="solr.StopFilterFactory" words="stopwords.txt" ignoreCase="true"/>
+<filter class="solr.KeywordMarkerFilterFactory" protected="protwords.txt"/>
+<filter class="solr.ArabicNormalizationFilterFactory"/>
+<filter class="solr.ArabicStemFilterFactory"/>
+<!--
+ in this example, we will only use synonyms at query time
+                 <filter class="solr.SynonymFilterFactory" synonyms="index_synonyms.txt" ignoreCase="true" expand="false"/>
+                 
+-->
+<filter class="solr.LowerCaseFilterFactory"/>
+</analyzer>
+<analyzer type="query">
+<tokenizer class="solr.StandardTokenizerFactory"/>
+<filter class="solr.SynonymFilterFactory" synonyms="synonyms.txt" ignoreCase="true" expand="true"/>
+<filter class="solr.StopFilterFactory" words="stopwords.txt" ignoreCase="true"/>
+<filter class="solr.KeywordMarkerFilterFactory" protected="protwords.txt"/>
+<filter class="solr.ArabicNormalizationFilterFactory"/>
+<filter class="solr.ArabicStemFilterFactory"/>
+<filter class="solr.LowerCaseFilterFactory"/>
+</analyzer>
+</fieldType>
+
         <fieldType name="url" class="solr.TextField"
             positionIncrementGap="100">
             <analyzer>
@@ -73,12 +104,13 @@
         <field name="segment" type="string" stored="true" indexed="false"/>
         <field name="digest" type="string" stored="true" indexed="false"/>
         <field name="boost" type="float" stored="true" indexed="false"/>
+ <field name="views" type="long" stored="true" indexed="false"/>
 
         <!-- fields for index-basic plugin -->
         <field name="host" type="string" stored="false" indexed="true"/>
         <field name="url" type="url" stored="true" indexed="true"/>
-        <field name="content" type="text" stored="false" indexed="true"/>
-        <field name="title" type="text" stored="true" indexed="true"/>
+        <field name="content" type="text_general" stored="false" indexed="true"/>
+        <field name="title" type="text_general" stored="true" indexed="true"/>
         <field name="cache" type="string" stored="true" indexed="false"/>
         <field name="tstamp" type="date" stored="true" indexed="false"/>
  <field name="_version_" type="long" indexed="true" stored="true"/>
