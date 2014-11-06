@@ -4,8 +4,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
-*.war
 *.ear
 
 solr-4.10.0/solr/solr/collection1/data
