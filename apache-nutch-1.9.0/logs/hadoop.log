@@ -1,0 +1,18 @@
+2014-11-06 23:46:22,340 INFO  crawl.Injector - Injector: starting at 2014-11-06 23:46:22
+2014-11-06 23:46:22,341 INFO  crawl.Injector - Injector: crawlDb: TestCrawl/crawldb
+2014-11-06 23:46:22,341 INFO  crawl.Injector - Injector: urlDir: urls
+2014-11-06 23:46:22,341 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
+2014-11-06 23:46:22,546 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2014-11-06 23:46:22,577 WARN  snappy.LoadSnappy - Snappy native library not loaded
+2014-11-06 23:46:22,820 INFO  crawl.Injector - Injector: overwrite: false
+2014-11-06 23:46:22,820 INFO  crawl.Injector - Injector: update: false
+2014-11-06 23:46:23,738 INFO  crawl.Injector - Injector: Total number of urls rejected by filters: 0
+2014-11-06 23:46:23,738 INFO  crawl.Injector - Injector: Total number of urls after normalization: 0
+2014-11-06 23:46:23,742 INFO  crawl.Injector - Injector: Total new urls injected: 0
+2014-11-06 23:46:23,742 INFO  crawl.Injector - Injector: finished at 2014-11-06 23:46:23, elapsed: 00:00:01
+2014-11-06 23:46:24,426 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2014-11-06 23:46:24,428 INFO  crawl.Generator - Generator: starting at 2014-11-06 23:46:24
+2014-11-06 23:46:24,428 INFO  crawl.Generator - Generator: Selecting best-scoring urls due for fetch.
+2014-11-06 23:46:24,428 INFO  crawl.Generator - Generator: filtering: false
+2014-11-06 23:46:24,428 INFO  crawl.Generator - Generator: normalizing: true
+2014-11-06 23:46:24,428 INFO  crawl.Generator - Generator: topN: 50000
